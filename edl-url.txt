@@ -120,3 +120,8 @@ ciborkumari.xyz
 cilkonlay.com
 Bip.dpsbranszczyk.pl
 cdn.polyfill.io
+repo.anaconda.com
+repo.anaconda.cloud
+anaconda.org/anaconda
+anaconda.org/main
+anaconda.org/r
