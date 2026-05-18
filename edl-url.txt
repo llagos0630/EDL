@@ -187,4 +187,5 @@ https://link.storjshare.io/s/jwyite7mez2ilyvm2esxw2jq3apq/crowdstrikeisrael/upda
 https://ewr1.vultrobjects.com/f5sec/update.sh
 jw8ndw9ev.localto.NET
 L5uGB6QxH.localto.net
-
+edge-consumer-static.azureedge.net
+edge-consumer-static.afd.azureedge.net
